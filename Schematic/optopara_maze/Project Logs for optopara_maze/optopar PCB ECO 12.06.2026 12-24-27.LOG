@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=optoparaE3 Member=R?
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Added Member To Class: ClassName=optoparaE3 Member=Component R3 510

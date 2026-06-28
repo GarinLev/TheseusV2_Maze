@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [optopar.PcbDoc]
+   Generated File[optopar.TXT]
+   Generated File[optopar.LDP]
+   Generated File[optopar.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:36:57 On 16.06.2026

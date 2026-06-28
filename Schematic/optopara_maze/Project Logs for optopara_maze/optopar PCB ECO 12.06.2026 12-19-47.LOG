@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetR1_1 Pin=TP2-1
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0603FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=TP2-1
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=optoparaE3 Member=Component R? 100
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

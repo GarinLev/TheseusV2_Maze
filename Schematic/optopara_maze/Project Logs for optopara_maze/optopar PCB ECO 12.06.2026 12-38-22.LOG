@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5Â Pin=TP1-1
+Removed Pin From Net: NetName=GND Pin=TP3-1
+Removed Member From Class: ClassName=optoparaE3 Member=TP1
+Removed Member From Class: ClassName=optoparaE3 Member=TP2
+Removed Member From Class: ClassName=optoparaE3 Member=TP3
+Added Component: Designator=1(TP_1X1)
+Added Component: Designator=2(TP_1X1)
+Added Component: Designator=3(TP_1X1)
+Added Pin To Net: NetName=+5Â Pin=1-1
+Added Pin To Net: NetName=GND Pin=3-1
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_1 Pin=R1-1
+Added Net: Name=Net2_1
+Added Member To Class: ClassName=optoparaE3 Member=Component 1 MOUNTING_HOLE
+Added Member To Class: ClassName=optoparaE3 Member=Component 2 MOUNTING_HOLE
+Added Member To Class: ClassName=optoparaE3 Member=Component 3 MOUNTING_HOLE
+Added Member To Class: ClassName=optoparaE3 Member=Component R1 100
+Added Member To Class: ClassName=optoparaE3 Member=Component R2 10ê
