@@ -67,32 +67,32 @@ GenerateClassCluster=0
 DocumentUniqueId=LGTXANMU
 
 [Parameter1]
-Name=approver
-Value=Мерзлякова
-
-[Parameter2]
 Name=reviewer
 Value=Мерзлякова
 
-[Parameter3]
-Name=developer
-Value=Гарин
-
-[Parameter4]
-Name=company
-Value=239
-
-[Parameter5]
+[Parameter2]
 Name=document_type
 Value=Схема электрическая принципиальная
 
-[Parameter6]
+[Parameter3]
+Name=document_code
+Value=Э3
+
+[Parameter4]
 Name=device_title
 Value=Силовая плата управления Тесей
 
+[Parameter5]
+Name=developer
+Value=Гарин
+
+[Parameter6]
+Name=company
+Value=239
+
 [Parameter7]
-Name=document_code
-Value=Э3
+Name=approver
+Value=Мерзлякова
 
 [Configuration1]
 Name=Sources
